@@ -1,5 +1,5 @@
 # covid-web-data-predictor
-### Prepared and shared: September 2020
+### Analysis originally conducted July 2020
 This repository hosts the Jupyter Notebook Northwell Health used to create a predictor of Covid cases by using Northwell.edu web traffic data.
 
 This repository is meant to be a jumping off point for others who would like to attempt to give an early indicator of Covid cases in their respective hospital system. 
