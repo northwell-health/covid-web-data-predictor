@@ -10,4 +10,4 @@ To apply to another health system it is expected that the majority of the time w
 - Northwell uses Google Analytics to track web traffic.
 - Google Analytics data is sent to Google Big Query and updates a partitioned table with a daily snapshot. [Using the process outlined here](https://support.google.com/analytics/answer/3416092?hl=en&ref_topic=3416089). This data set is then used for analysis.
 - The Covid positive case counts comes from hospital diagnosis data, identified by ICD-10 code, using the the earliest reasonable diagnosis date for each encounter.
-- The Logistic Regression model and predictions are created in Google ML and publsihed to a Big Query data set that is made available BI tools, in Northwell's case Tableau and Google Data Studio
+- The Logistic Regression model and predictions are created in Google ML and publsihed to a Big Query data set that is made available BI tools, in Northwell's case Tableau and Google Data Studio.
